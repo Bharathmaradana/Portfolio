@@ -119,6 +119,7 @@ h2{
   height: max-content;
   position: relative;
   display: flex;
+  z-index: 100000 !important;
 }
 .some_1 {
   background: transparent !important;
